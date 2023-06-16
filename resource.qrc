@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/start.png</file>
+        <file>images/refresh.png</file>
+        <file>images/mepsan.png</file>
+        <file>images/file.ico</file>
+        <file>images/dosya.png</file>
+        <file>images/exit.png</file>
+    </qresource>
+</RCC>
